@@ -6,8 +6,8 @@
 
 <p>
   <a href="https://linkedin.com/in/nícolas-melo-bsb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Code-Boost-LTDA"><img src="https://img.shields.io/badge/Code%20Boost-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/ShopGuard-AI"><img src="https://img.shields.io/badge/ShopGuard%20AI-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Code%20Boost-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/ShopGuard%20AI-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Brasília-DF,%20Brasil-333?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=nicolasfmelo&style=for-the-badge&color=blueviolet" />
 </p>
