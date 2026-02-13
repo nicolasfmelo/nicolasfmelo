@@ -2,7 +2,7 @@
 
 # Hey there! I'm Nícolas Melo 👋
 
-### 🤖 Computer Vision & AI Engineer | Tech Lead | Founder
+### 🤖 Computer Vision & AI Engineer | Tech Lead |
 
 <p>
   <a href="https://linkedin.com/in/nícolas-melo-bsb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -60,7 +60,7 @@ class NicolasMelo:
   <img src="https://img.shields.io/badge/RAG-6B21A8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Agents-10B981?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-3B82F6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HaystackAI-3B82F6?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 💻 Languages
