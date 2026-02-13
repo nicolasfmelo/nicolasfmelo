@@ -103,7 +103,8 @@ class NicolasMelo:
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/Code-Boost-LTDA"><b>🚀 Code Boost LTDA</b></a><br/>
-      <sub>Minha empresa — Computer Vision, AI agents, AIOps, Consultoria</sub><br/>
+      <sub>Minha empresa — Consultoria de IA</sub><br/>
+      <sub><code>Computer Vision</code> · <code>AI agents</code> · <code>AIOps</code></sub>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/ShopGuard-AI"><b>🛡️ ShopGuard AI</b></a><br/>
