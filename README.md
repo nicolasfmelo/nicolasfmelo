@@ -84,12 +84,13 @@ class NicolasMelo:
 #### 🧰 Tools & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest%20APIs-009688?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaMTX-333?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-333?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-F05032?style=for-the-badge&logoColor=white" />
 </p>
 
 </div>
