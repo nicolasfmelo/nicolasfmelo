@@ -60,7 +60,7 @@ class NicolasMelo:
   <img src="https://img.shields.io/badge/RAG-6B21A8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Agents-10B981?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/HaystackAI-3B82F6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haystack%20AI-3B82F6?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 💻 Languages
@@ -78,7 +78,7 @@ class NicolasMelo:
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Frameworks
