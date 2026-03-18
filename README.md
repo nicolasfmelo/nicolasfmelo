@@ -23,7 +23,7 @@ class NicolasMelo:
     def __init__(self):
         self.role = "Computer Vision & AI Engineer"
         self.company = "Code Boost LTDA (Founder)"
-        self.experience = "7+ years"
+        self.experience = "8+ years"
         self.location = "Brasília - DF, Brasil"
         self.languages_spoken = ["pt-BR (Native)", "en (Intermediate)", "es (Advanced)"]
         self.orgs = ["Code-Boost-LTDA", "ShopGuard-AI", "T3-Labs", "Pega-Placa"]
