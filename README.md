@@ -10,7 +10,6 @@
   <a href="mailto:nicolasfmelo@gmail.com">nicolasfmelo@gmail.com</a>
 </p>
 
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/section-about-light.svg">
@@ -23,7 +22,6 @@ Real-time detection, tracking and 3D, from Jetson to Triton. Production multi-ag
 
 Before code, I was a 2nd Lieutenant in the Brazilian Army. Also around: [ShopGuard AI](https://github.com/ShopGuard-AI) · [T3 Labs](https://github.com/T3-Labs) · [Pega Placa](https://github.com/Pega-Placa).
 
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/section-work-light.svg">
@@ -39,7 +37,6 @@ Before code, I was a 2nd Lieutenant in the Brazilian Army. Also around: [ShopGua
 
 <p align="center"><sub>30 production cases, 2018–2026 · <a href="https://nicolasfmelo.org/projetos">see them all →</a></sub></p>
 
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/section-building-light.svg">
@@ -60,7 +57,6 @@ Before code, I was a 2nd Lieutenant in the Brazilian Army. Also around: [ShopGua
   <a href="https://github.com/nicolasfmelo/daily-taker">daily-taker</a>
 </sub></p>
 
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/section-recognition-light.svg">
@@ -69,7 +65,6 @@ Before code, I was a 2nd Lieutenant in the Brazilian Army. Also around: [ShopGua
 
 <img src="assets/recognition.svg" alt="Recognized by Databricks as an LLMOps architecture reference, and by AWS as an agentic architecture case" width="100%">
 
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/section-stack-light.svg">
@@ -78,7 +73,6 @@ Before code, I was a 2nd Lieutenant in the Brazilian Army. Also around: [ShopGua
 
 <img src="assets/stack.svg" alt="Computer vision: PyTorch, OpenCV, YOLO, ONNX, TensorRT, Triton, Jetson, LiDAR. AI agents: LangGraph, CrewAI, RAG, MCP, A2A, LiteLLM. MLOps: Databricks, MLflow, Kubernetes, ArgoCD, Grafana. Languages: Python, Rust, TypeScript, C++, Go. Cloud: AWS, GCP, Azure." width="100%">
 
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/section-path-light.svg">
@@ -87,7 +81,6 @@ Before code, I was a 2nd Lieutenant in the Brazilian Army. Also around: [ShopGua
 
 <img src="assets/path.svg" alt="Code Boost (founder, 2026–), NTT DATA Europe & Latam (lead engineer, 2023–25), CodeLeap (London, 2022–23), Engineering Brasil (CV tech lead, 2021–23), GETTER, Combate à Fraude, Deeper Systems (Las Vegas), Pega Placa, Brazilian Army (2nd Lieutenant, 2013–17)" width="100%">
 
-<br><br>
 
 <a href="mailto:nicolasfmelo@gmail.com">
   <img src="assets/contact.svg" alt="Let's talk — AI projects, computer vision or agent architecture. nicolasfmelo@gmail.com" width="100%">

@@ -264,18 +264,18 @@ def banner():
 # ---------------------------------------------------------------- cabeçalhos de seção
 
 def section(name, index, title, note=""):
-    W, H = 1280, 64
+    W, H = 1280, 40
     for suffix, fg, sub, line in (("", FG, SUBTLE, BORDER), ("-light", "#1f2328", "#59636e", "#d1d9e0")):
-        body = [text(index, 2, 40, "monob", 14, ACCENT, track=0.1)]
+        body = [text(index, 2, 27, "monob", 14, ACCENT, track=0.1)]
         tx = 2 + measure(index, "monob", 14, 0.1) + 18
-        body.append(text(title, tx, 42, "heading", 30, fg))
+        body.append(text(title, tx, 29, "heading", 30, fg))
         lx = tx + measure(title, "heading", 30) + 24
         end = W - 2
         if note:
             nw = measure(note, "mono", 12, 0.16)
-            body.append(text(note, W - 2, 40, "mono", 12, sub, "end", 0.16))
+            body.append(text(note, W - 2, 27, "mono", 12, sub, "end", 0.16))
             end = W - 2 - nw - 24
-        body.append(f'<rect x="{lx:.0f}" y="35" width="{max(0, end - lx):.0f}" height="1" fill="{line}"/>')
+        body.append(f'<rect x="{lx:.0f}" y="22" width="{max(0, end - lx):.0f}" height="1" fill="{line}"/>')
         save(f"section-{name}{suffix}.svg", svg(W, H, "".join(body), f"{index} {title}"))
 
 
