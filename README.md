@@ -1,162 +1,100 @@
-<div align="center">
+<a href="https://nicolasfmelo.org">
+  <img src="assets/banner.svg" alt="Nicolas Melo — AI & Computer Vision Engineer. Computer vision, multi-agent systems and MLOps." width="100%">
+</a>
 
-# Hey there! I'm Nícolas Melo 👋
-
-### 🤖 Staff - Computer Vision & AI Engineer |
-
-<p>
-  <a href="https://linkedin.com/in/nícolas-melo-bsb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Code%20Boost-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/ShopGuard%20AI-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Brasília-DF,%20Brasil-333?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=nicolasfmelo&style=for-the-badge&color=blueviolet" />
+<p align="center">
+  <a href="https://nicolasfmelo.org"><b>nicolasfmelo.org</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nicolas-melo-bsb/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:nicolasfmelo@gmail.com">nicolasfmelo@gmail.com</a>
 </p>
 
-</div>
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-about-light.svg">
+  <img src="assets/section-about.svg" alt="01 — About" width="100%">
+</picture>
 
-### 🧠 About Me
+AI engineer since 2018, taking **computer vision**, **AI agents** and **MLOps** from prototype to production. Today I work on the architecture and technical leadership of platforms running on AWS, GCP and Azure, and run [**Code Boost**](https://github.com/Code-Boost-LTDA), my AI consultancy.
 
-```python
-class NicolasMelo:
-    def __init__(self):
-        self.role = "Computer Vision & AI Engineer"
-        self.company = "Code Boost LTDA (Founder)"
-        self.experience = "8+ years"
-        self.location = "Brasília - DF, Brasil"
-        self.languages_spoken = ["pt-BR (Native)", "en (Intermediate)", "es (Advanced)"]
-        self.orgs = ["Code-Boost-LTDA", "ShopGuard-AI", "T3-Labs", "Pega-Placa"]
-        self.fun_fact = "Former Brazilian Army Officer 🎖️ turned AI Engineer"
-```
+Real-time detection, tracking and 3D, from Jetson to Triton. Production multi-agent platforms with RAG, LangGraph, A2A and MCP. LLMOps on Databricks, Kubernetes and observability. Critical systems — ALPR, PPE, fatigue, counting — with real-time alerts.
 
-> Especialista em Visão Computacional com **7+ anos** criando soluções otimizadas da arquitetura ao deploy.  
-> Experiência como **Tech Lead**, arquitetando soluções de **IA, GenAI, RAG e Agentes de IA** para grandes empresas.  
-> Fundador da **Code Boost LTDA** e líder técnico do **ShopGuard AI** — plataforma de segurança com IA em tempo real.
+Before code, I was a 2nd Lieutenant in the Brazilian Army. Also around: [ShopGuard AI](https://github.com/ShopGuard-AI) · [T3 Labs](https://github.com/T3-Labs) · [Pega Placa](https://github.com/Pega-Placa).
 
----
+<br>
 
-### ⚡ Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-work-light.svg">
+  <img src="assets/section-work.svg" alt="02 — Selected work" width="100%">
+</picture>
 
-<div align="center">
-
-#### 👁️ Computer Vision & Deep Learning
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO%2FDarknet-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<p align="center">
+  <a href="https://nicolasfmelo.org/projetos"><img src="assets/card-industrial3d.svg" alt="3D vision in industry — real-time counting and mass estimation with 18 cameras and 2 LiDARs" width="49%"></a>
+  <a href="https://nicolasfmelo.org/projetos"><img src="assets/card-agents.svg" alt="Multi-agent platform — AI runtime with memory, SDK and observability" width="49%"></a>
+  <a href="https://nicolasfmelo.org/projetos"><img src="assets/card-retail.svg" alt="Computer vision at scale — video pipeline validated with 55+ concurrent cameras" width="49%"></a>
+  <a href="https://nicolasfmelo.org/projetos"><img src="assets/card-llmops.svg" alt="LLMOps on Databricks — from experiment to evaluation and agent deploy" width="49%"></a>
 </p>
 
-#### 🤖 AI & GenAI
+<p align="center"><sub>30 production cases, 2018–2026 · <a href="https://nicolasfmelo.org/projetos">see them all →</a></sub></p>
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain%20Langgraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6B21A8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-10B981?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haystack%20AI-3B82F6?style=for-the-badge&logoColor=white" />
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-building-light.svg">
+  <img src="assets/section-building.svg" alt="03 — What I'm building" width="100%">
+</picture>
+
+<p align="center">
+  <a href="https://github.com/nicolasfmelo/lambda-memory"><img src="assets/card-lambda.svg" alt="Lambda Memory — local, source-bound memory for coding agents" width="49%"></a>
+  <a href="https://www.masa-framework.org/"><img src="assets/card-masa.svg" alt="MASA framework — architecture that maximizes cognizability for AI agents" width="49%"></a>
+  <a href="https://ergit.app"><img src="assets/card-ergit.svg" alt="Ergit — code versioning and review built around ergonomics" width="49%"></a>
+  <a href="https://nicolasfmelo.org"><img src="assets/card-enty.svg" alt="ENTY — compiled language for domain modeling, coming soon" width="49%"></a>
 </p>
 
-#### 💻 Languages
+<p align="center"><sub>
+  <a href="https://github.com/nicolasfmelo/lambda-memory">lambda-memory</a> ·
+  <a href="https://github.com/nicolasfmelo/masa-framework">masa-framework</a> ·
+  <a href="https://github.com/nicolasfmelo/masa-skill">masa-skill</a> ·
+  <a href="https://github.com/nicolasfmelo/daily-taker">daily-taker</a>
+</sub></p>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+<br>
 
-#### ☁️ Cloud, DevOps & Infra
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-recognition-light.svg">
+  <img src="assets/section-recognition.svg" alt="04 — Recognition" width="100%">
+</picture>
 
-<p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF6600?style=for-the-badge&logo=aws&logoColor=white" />
-</p>
+<img src="assets/recognition.svg" alt="Recognized by Databricks as an LLMOps architecture reference, and by AWS as an agentic architecture case" width="100%">
 
-#### 🧰 Tools & Frameworks
+<br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/RabbitMQ-F37626?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rest%20APIs-009688?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-333?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-F05032?style=for-the-badge&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-stack-light.svg">
+  <img src="assets/section-stack.svg" alt="05 — Stack" width="100%">
+</picture>
 
-</div>
+<img src="assets/stack.svg" alt="Computer vision: PyTorch, OpenCV, YOLO, ONNX, TensorRT, Triton, Jetson, LiDAR. AI agents: LangGraph, CrewAI, RAG, MCP, A2A, LiteLLM. MLOps: Databricks, MLflow, Kubernetes, ArgoCD, Grafana. Languages: Python, Rust, TypeScript, C++, Go. Cloud: AWS, GCP, Azure." width="100%">
 
----
+<br><br>
 
-### 🏗️ Organizations & Projects
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-path-light.svg">
+  <img src="assets/section-path.svg" alt="06 — Path" width="100%">
+</picture>
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/Code-Boost-LTDA"><b>🚀 Code Boost LTDA</b></a><br/>
-      <sub>Minha empresa — Consultoria de IA</sub><br/>
-      <sub><code>Computer Vision</code> · <code>AI agents</code> · <code>AIOps</code></sub>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/ShopGuard-AI"><b>🛡️ ShopGuard AI</b></a><br/>
-      <sub>Plataforma de segurança com IA em tempo real</sub><br/>
-      <sub><code>Python</code> · <code>Go</code> · <code>TypeScript</code> · <code>K8s</code></sub>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/T3-Labs"><b>🔬 T3 Labs</b></a><br/>
-      <sub>Ferramentas de Visão Computacional</sub><br/>
-      <sub><code>ALPR</code> · <code>YOLO</code> · <code>OpenCV</code> · <code>Darknet</code></sub>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/Pega-Placa"><b>🚗 Pega Placa</b></a><br/>
-      <sub>Reconhecimento automático de placas</sub><br/>
-      <sub><code>ALPR</code> · <code>OCR</code> · <code>Python</code></sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/path.svg" alt="Code Boost (founder, 2026–), NTT DATA Europe & Latam (lead engineer, 2023–25), CodeLeap (London, 2022–23), Engineering Brasil (CV tech lead, 2021–23), GETTER, Combate à Fraude, Deeper Systems (Las Vegas), Pega Placa, Brazilian Army (2nd Lieutenant, 2013–17)" width="100%">
 
----
+<br><br>
 
-### 🏢 Experience Highlights
+<a href="mailto:nicolasfmelo@gmail.com">
+  <img src="assets/contact.svg" alt="Let's talk — AI projects, computer vision or agent architecture. nicolasfmelo@gmail.com" width="100%">
+</a>
 
-| Company | Role | Period |
-|---------|------|--------|
-| 🚀 **Code Boost LTDA** | Founder | 2026 - Present |
-| 🌐 **NTT DATA Europe & Latam** | Lead Engineer | 2023 - 2025 |
-| 🇬🇧 **CodeLeap** | CV Engineer (London, UK) | 2022 - 2023 |
-| 🏭 **Engineering Brasil** | CV Tech Lead | 2021 - 2023 |
-| 🔍 **GETTER - Amplified Industry** | CV Engineer / Tech Lead | 2020 - 2021 |
-| 🛡️ **Combate à Fraude** | CV Engineer | 2020 - 2021 |
-| 🎰 **Deeper Systems** | Jr. CV Engineer (Las Vegas) | 2020 |
-| 🚗 **Pega Placa** | CV Engineer (Freelance) | 2019 - 2021 |
-| 🎖️ **Exército Brasileiro** | 2° Tenente | 2013 - 2017 |
-
----
-
-### 🔬 What I Work With
-
-- 🔍 **Computer Vision:** Object Detection, OCR, ALPR, Documentoscopy, Video Analytics, Real-time Streaming
-- 🧠 **Deep Learning:** Model Training, Optimization, NVIDIA Triton Inference Server
-- 🤖 **GenAI:** RAG Applications, AI Agents (CrewAI), LLM Integration, Code Review Agents
-- 📝 **NLP:** Azure Cognitive Services, Text Analytics, Prompt Engineering
-- 🏭 **Industry 4.0:** Automated Inspection, Quality Control, Defect Detection
-- 🎥 **Edge Computing:** Go-based edge video processing, MediaMTX streaming
-
----
-
-<div align="center">
-
-**💬 "From the Brazilian Army to Artificial Intelligence — always leading, always learning."**
-
-⭐ *Feel free to explore my repos and reach out!*
-
-</div>
+<p align="center"><sub>
+  <a href="https://nicolasfmelo.org">nicolasfmelo.org</a> ·
+  <a href="https://www.linkedin.com/in/nicolas-melo-bsb/">LinkedIn</a> ·
+  <a href="mailto:nicolasfmelo@gmail.com">email</a>
+</sub></p>
